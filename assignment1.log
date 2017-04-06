@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (Web2C 2016) (preloaded format=pdflatex 2017.2.3)  6 APR 2017 15:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (Web2C 2016) (preloaded format=pdflatex 2017.2.3)  6 APR 2017 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -207,69 +207,180 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 12.
 
-Underfull \hbox (badness 1264) in paragraph at lines 22--33
+Underfull \hbox (badness 1264) in paragraph at lines 21--32
 \OT1/cmr/m/n/10 of soft-ware de-vel-op-ment where it was found to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--33
+Underfull \hbox (badness 10000) in paragraph at lines 21--32
 
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 22--33
-\OT1/cmr/m/n/10 Naur and Ran-dell (1969) state that there were
+Underfull \hbox (badness 1365) in paragraph at lines 21--32
+\OT1/cmr/m/n/10 meet-ing time re-quire-ments and spec-i-fi-ca-tions on
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 22--33
-\OT1/cmr/m/n/10 prob-lems of "achiev-ing suf-fi-cient re-li-a-bil-ity" and
- []
-
-
-Underfull \hbox (badness 1635) in paragraph at lines 22--33
-\OT1/cmr/m/n/10 i-fi-ca-tions on large scale projects amongst other
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--33
+Underfull \hbox (badness 10000) in paragraph at lines 21--32
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 49.
+
+Underfull \hbox (badness 1565) in paragraph at lines 34--56
+\OT1/cmr/m/n/10 un-man-age-able projects, and projects that never
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--56
+
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 34--56
+\OT1/cmr/m/n/10 A so-lu-tion that was pro-posed to the prob-lems
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--56
+
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 34--56
+\OT1/cmr/m/n/10 Nearly all soft-ware de-vel-op-ment pro-cess mod-els
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--56
+
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 34--56
+\OT1/cmr/m/n/10 A pro-cess model proves it-self ex-tremely use-ful
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 34--56
+\OT1/cmr/m/n/10 def-i-ni-tion", "Sys-tem de-sign", "Pro-gram de-sign",
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 34--56
+\OT1/cmr/m/n/10 "Writ-ing pro-grams (im-ple-men-ta-tion)", "Test-ing",
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--87
+
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 59--87
+\OT1/cmr/m/n/10 The main idea to take away from Royce's pa-
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 59--87
+\OT1/cmr/m/n/10 un-der-stand-ing the prob-lem that the soft-ware is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--87
+
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 59--87
+\OT1/cmr/m/n/10 The wa-ter-fall model has been de-scribed as a
+ []
+
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
+ [2pdfTeX warning (ext4): destination with the same identifier (name{cite.null}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.123 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{cite.null}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.123 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{cite.null}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.123 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{cite.null}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.123 \end{document}
+                    
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 49.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
  (./assignment1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
 Package rerunfilecheck Info: File `assignment1.out' has not changed.
-(rerunfilecheck)             Checksum: A02D95553E30B97FF125B1AA17CF9044;47.
+(rerunfilecheck)             Checksum: D787328F715C3B355B9624C3806A361C;174.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 123.
  ) 
 Here is how much of TeX's memory you used:
- 4691 strings out of 493681
- 69027 string characters out of 6155713
- 152601 words of memory out of 5000000
- 8060 multiletter control sequences out of 15000+600000
+ 4696 strings out of 493681
+ 69068 string characters out of 6155713
+ 158580 words of memory out of 5000000
+ 8062 multiletter control sequences out of 15000+600000
  7946 words of font info for 28 fonts, out of 8000000 for 9000
  891 hyphenation exceptions out of 8191
- 44i,8n,28p,373b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,8n,28p,373b,321s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/pkg/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/pk
 g/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/pkg/share/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/pkg/share/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on assignment1.pdf (1 page, 58580 bytes).
+Output written on assignment1.pdf (2 pages, 70915 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
