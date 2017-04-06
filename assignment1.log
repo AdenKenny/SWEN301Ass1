@@ -1,14 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.6.26)  6 APR 2017 21:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (Web2C 2016) (preloaded format=pdflatex 2017.2.3)  7 APR 2017 11:08
 entering extended mode
-**C:/Users/Aden/Documents/Coding/School/SWEN301/SWEN301Ass1/assignment1.tex
-(C:/Users/Aden/Documents/Coding/School/SWEN301/SWEN301Ass1/assignment1.tex
-LaTeX2e <2016/03/31>
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-(C:/Users/Aden/Documents/Coding/School/SWEN301/SWEN301Ass1\CRPITStyle.cls
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**assignment1.tex
+(./assignment1.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 40 language(s) loaded.
+(./CRPITStyle.cls
 Document Class: CRPITStyle 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+(/usr/pkg/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+(/usr/pkg/share/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,199 +26,517 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 \@acmtitlebox=\box26
-)
-(C:/Users/Aden/Documents/Coding/School/SWEN301/SWEN301Ass1\harvard.sty
+) (./harvard.sty
 Package: harvard 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(/usr/pkg/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/pkg/share/texmf-dist/tex/latex/html/html.sty
+(/usr/pkg/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+(/usr/pkg/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/pkg/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/pkg/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/pkg/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/pkg/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/pkg/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count87
+\Hy@pagecounter=\count88
+
+(/usr/pkg/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count89
+
+(/usr/pkg/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count90
+
+(/usr/pkg/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count91
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count92
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/pkg/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count95
+\c@bookmark@seq@number=\count96
+
+(/usr/pkg/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+Package: html 1999/07/19 v1.38 hypertext commands for latex2html (nd, hws, rrm)
+
+\c@lpart=\count97
+\c@lchapter=\count98
+\c@chapter=\count99
+\c@lsection=\count100
+\c@lsubsection=\count101
+\c@lsubsubsection=\count102
+\c@lparagraph=\count103
+\c@lsubparagraph=\count104
+\c@lsubsubparagraph=\count105
+\ptrfile=\write3
 ))
-(C:/Users/Aden/Documents/Coding/School/SWEN301/SWEN301Ass1\assignment1.aux)
+(/usr/pkg/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/pkg/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/pkg/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/pkg/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/pkg/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+\Gread@gobject=\count106
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+(./assignment1.aux)
 \openout1 = `assignment1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+\AtBeginShipoutBox=\box27
+Package hyperref Info: Link coloring OFF on input line 10.
+ (/usr/pkg/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-Underfull \hbox (badness 1264) in paragraph at lines 21--32
+(/usr/pkg/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count107
+)
+LaTeX Info: Redefining \ref on input line 10.
+LaTeX Info: Redefining \pageref on input line 10.
+LaTeX Info: Redefining \nameref on input line 10.
+
+(./assignment1.out) (./assignment1.out)
+\@outlinefile=\write4
+\openout4 = `assignment1.out'.
+
+Package hyperref Info: *** compatibility with harvard ****  on input line 10.
+
+(/usr/pkg/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen110
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks16
+) (/usr/pkg/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/pkg/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/pkg/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+
+Underfull \hbox (badness 1264) in paragraph at lines 24--35
 \OT1/cmr/m/n/10 of soft-ware de-vel-op-ment where it was found to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--32
+Underfull \hbox (badness 10000) in paragraph at lines 24--35
 
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 21--32
+Underfull \hbox (badness 1365) in paragraph at lines 24--35
 \OT1/cmr/m/n/10 meet-ing time re-quire-ments and spec-i-fi-ca-tions on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--32
+Underfull \hbox (badness 10000) in paragraph at lines 24--35
 
  []
 
 
-Underfull \hbox (badness 1565) in paragraph at lines 34--56
+Underfull \hbox (badness 1565) in paragraph at lines 37--59
 \OT1/cmr/m/n/10 un-man-age-able projects, and projects that never
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--56
+Underfull \hbox (badness 10000) in paragraph at lines 37--59
 
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 34--56
+Underfull \hbox (badness 1675) in paragraph at lines 37--59
 \OT1/cmr/m/n/10 A so-lu-tion that was pro-posed to the prob-lems
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--56
+Underfull \hbox (badness 10000) in paragraph at lines 37--59
 
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 34--56
+Underfull \hbox (badness 1924) in paragraph at lines 37--59
 \OT1/cmr/m/n/10 Nearly all soft-ware de-vel-op-ment pro-cess mod-els
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--56
+Underfull \hbox (badness 10000) in paragraph at lines 37--59
 
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 34--56
+Underfull \hbox (badness 2426) in paragraph at lines 37--59
 \OT1/cmr/m/n/10 A pro-cess model proves it-self ex-tremely use-ful
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 34--56
+Underfull \hbox (badness 1688) in paragraph at lines 37--59
 \OT1/cmr/m/n/10 def-i-ni-tion", "Sys-tem de-sign", "Pro-gram de-sign",
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 34--56
+Underfull \hbox (badness 1571) in paragraph at lines 37--59
 \OT1/cmr/m/n/10 "Writ-ing pro-grams (im-ple-men-ta-tion)", "Test-ing",
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--56
+Underfull \hbox (badness 10000) in paragraph at lines 37--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--105
+Underfull \hbox (badness 10000) in paragraph at lines 62--107
 
  []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 59--105
+Underfull \hbox (badness 1331) in paragraph at lines 62--107
 \OT1/cmr/m/n/10 The main idea to take away from Royce's pa-
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 59--105
+Underfull \hbox (badness 1442) in paragraph at lines 62--107
 \OT1/cmr/m/n/10 un-der-stand-ing the prob-lem that the soft-ware is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--105
+Underfull \hbox (badness 10000) in paragraph at lines 62--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--105
+Underfull \hbox (badness 10000) in paragraph at lines 62--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--105
+Underfull \hbox (badness 10000) in paragraph at lines 62--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--105
+Underfull \hbox (badness 10000) in paragraph at lines 62--107
 
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 59--105
+Underfull \hbox (badness 1019) in paragraph at lines 62--107
 \OT1/cmr/m/n/10 'lightweight meth-ods' gain-ing pop-u-lar-ity. These
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--105
+Underfull \hbox (badness 10000) in paragraph at lines 62--107
 
  []
 
 
-Underfull \hbox (badness 3088) in paragraph at lines 59--105
+Underfull \hbox (badness 3088) in paragraph at lines 62--107
 \OT1/cmr/m/n/10 The wa-ter-fall model has been de-scribed as a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--105
+Underfull \hbox (badness 10000) in paragraph at lines 62--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--105
+Underfull \hbox (badness 10000) in paragraph at lines 62--107
 
  []
 
 
-Underfull \hbox (badness 3942) in paragraph at lines 59--105
+Underfull \hbox (badness 3942) in paragraph at lines 62--107
 \OT1/cmr/m/n/10 A ma-jor dif-fer-ence be-tween the method-olo-gies
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 59--105
+Underfull \hbox (badness 1152) in paragraph at lines 62--107
 \OT1/cmr/m/n/10 mod-els like wa-ter-fall. These more heavy-weight
  []
 
-[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-] [2
+]
+Underfull \hbox (badness 10000) in paragraph at lines 111--114
 
-] (assignment1.aux)
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 116.
+
+(/usr/pkg/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 116.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+<images/spiral2.png, id=30, 250.9375pt x 208.78pt>
+File: images/spiral2.png Graphic file (type png)
+ <use images/spiral2.png>
+Package pdftex.def Info: images/spiral2.png used on input line 148.
+(pdftex.def)             Requested size: 250.93687pt x 208.77946pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--149
+
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 123--149
+\OT1/cmr/m/n/10 It ``works for well un-der-stood prob-lems with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--149
+
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 123--149
+\OT1/cmr/m/n/10 Waterfall, along with the V model that it is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--149
+
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 123--149
+\OT1/cmr/m/n/10 The other model that will be dis-cussed is the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--149
+
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 123--149
+\OT1/cmr/m/n/10 The Spi-ral calls for mul-ti-ple it-er-a-tions like the
+ []
+
+
+Overfull \hbox (19.93687pt too wide) in paragraph at lines 123--149
+[] 
+ []
+
+[2 <./images/spiral2.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
+ [3pdfTeX warning (ext4): destination with the same identifier (name{cite.null}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.188 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{cite.null}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.188 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{cite.null}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.188 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{cite.null}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.188 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{cite.null}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.188 \end{document}
+                    
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
+ (./assignment1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package rerunfilecheck Info: File `assignment1.out' has not changed.
+(rerunfilecheck)             Checksum: 77C7E72D7BAEDB6096F4EF50CE8C1FF8;237.
+
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 188.
  ) 
 Here is how much of TeX's memory you used:
- 426 strings out of 493335
- 5265 string characters out of 3136683
- 71562 words of memory out of 3000000
- 4018 multiletter control sequences out of 15000+200000
- 7946 words of font info for 28 fonts, out of 3000000 for 9000
- 1142 hyphenation exceptions out of 8191
- 29i,8n,22p,432b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on assignment1.pdf (2 pages, 75077 bytes).
+ 5542 strings out of 493681
+ 80884 string characters out of 6155713
+ 178413 words of memory out of 5000000
+ 8869 multiletter control sequences out of 15000+600000
+ 7946 words of font info for 28 fonts, out of 8000000 for 9000
+ 891 hyphenation exceptions out of 8191
+ 44i,8n,28p,373b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/pkg/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/pk
+g/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/pkg/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/pkg/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/pkg/share/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti10.pfb>
+Output written on assignment1.pdf (3 pages, 99551 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
